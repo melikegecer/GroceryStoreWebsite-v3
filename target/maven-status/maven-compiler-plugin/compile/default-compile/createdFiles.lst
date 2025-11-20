@@ -1,0 +1,10 @@
+ch/unil/doplab/grocerystorewebsite/v3/models/Users.class
+ch/unil/doplab/grocerystorewebsite/v3/beans/LoginBean.class
+ch/unil/doplab/grocerystorewebsite/v3/resources/JakartaEE10Resource.class
+ch/unil/doplab/grocerystorewebsite/v3/exceptions/InsufficientBalanceException.class
+ch/unil/doplab/grocerystorewebsite/v3/exceptions/DoesNotExistException.class
+ch/unil/doplab/grocerystorewebsite/v3/beans/FoodBean.class
+ch/unil/doplab/grocerystorewebsite/v3/beans/UserBean.class
+ch/unil/doplab/grocerystorewebsite/v3/models/Foods.class
+ch/unil/doplab/grocerystorewebsite/v3/exceptions/AlreadyExistsException.class
+ch/unil/doplab/grocerystorewebsite/v3/JakartaRestConfiguration.class

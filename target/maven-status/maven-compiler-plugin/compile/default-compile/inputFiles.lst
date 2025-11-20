@@ -1,0 +1,10 @@
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v3/src/main/java/ch/unil/doplab/grocerystorewebsite/v3/exceptions/InsufficientBalanceException.java
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v3/src/main/java/ch/unil/doplab/grocerystorewebsite/v3/models/Users.java
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v3/src/main/java/ch/unil/doplab/grocerystorewebsite/v3/exceptions/AlreadyExistsException.java
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v3/src/main/java/ch/unil/doplab/grocerystorewebsite/v3/resources/JakartaEE10Resource.java
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v3/src/main/java/ch/unil/doplab/grocerystorewebsite/v3/exceptions/DoesNotExistException.java
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v3/src/main/java/ch/unil/doplab/grocerystorewebsite/v3/beans/UserBean.java
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v3/src/main/java/ch/unil/doplab/grocerystorewebsite/v3/JakartaRestConfiguration.java
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v3/src/main/java/ch/unil/doplab/grocerystorewebsite/v3/beans/FoodBean.java
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v3/src/main/java/ch/unil/doplab/grocerystorewebsite/v3/models/Foods.java
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v3/src/main/java/ch/unil/doplab/grocerystorewebsite/v3/beans/LoginBean.java
