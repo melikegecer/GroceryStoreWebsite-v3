@@ -4,7 +4,7 @@ This is a four-phase project series developed for a Software Architectures cours
 
 ### **Phase 1: GroceryStoreWebsite-v1**
 * **Repository:** [melikegecer/GroceryStoreWebsite-v1](https://github.com/melikegecer/GroceryStoreWebsite-v1)
-* **Description:** The initial, simplest version of the grocery store website. This phase likely focused on core business logic and persistence, embodying a highly cohesive, monolithic structure.
+* **Description:** The initial, simplest version of the grocery store website. This phase focused on core business logic and persistence, embodying a highly cohesive, monolithic structure.
 
 ### **Phase 2: GroceryStoreWebsite-v2**
 * **Repository:** [melikegecer/GroceryStoreWebsite-v2](https://github.com/melikegecer/GroceryStoreWebsite-v2)
